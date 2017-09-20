@@ -1,0 +1,16 @@
+body {
+    background-image: url("background.jpg");
+    background-color: lightyellow;
+
+}
+
+h1 {
+    
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+ ol>li {
+     margin-bottom: 10px;
+ }
